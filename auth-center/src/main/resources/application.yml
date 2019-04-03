@@ -1,4 +1,4 @@
 server:
-  port: 8081
+  port: 8088
 
-shuaicj.security.jwt.secret: otherpeopledontknowit
+dataservice.security.jwt.secret: zhuoweihuang123
